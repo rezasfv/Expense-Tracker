@@ -9,10 +9,10 @@ A responsive Flutter application for tracking expenses by amount, date, and cate
 - Responsive design for mobile, tablet, and desktop screens.
 - Simple and clean UI to focus on core Flutter concepts.
 
-## Demo
+<!-- ## Demo
 
 ![Expense Tracker Screenshot](./assets/demo_image.png)  
-*Placeholder for app screenshots.*
+*Placeholder for app screenshots.* -->
 
 ## Technologies Used
 
